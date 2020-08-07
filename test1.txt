@@ -1,0 +1,12 @@
+
+This is just a testing
+ Volume in drive C has no label.
+ Volume Serial Number is B6C9-8650
+
+ Directory of C:\Users\masro\OneDrive\Desktop\This_is_My_Project
+
+08/07/2020  04:20 PM    <DIR>          .
+08/07/2020  04:20 PM    <DIR>          ..
+08/07/2020  04:20 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  93,517,873,152 bytes free
